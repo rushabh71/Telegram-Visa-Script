@@ -1,5 +1,5 @@
 #Python scipt which uses Telethon - Telegram API to find messsages containing
-#keywords like Go, Open, Opened, etc. which indicates US visa slots opening.
+#keywords like Go, Open, Opened, etc. which indicates visa slots opening.
 #Upon finding these keywords in message it will play sound.
 
 #@author Rushabh Patel
